@@ -10,7 +10,7 @@ export class AppComponent implements OnInit {
   title = 'player';
 
   public player: any;
-  once =  false;
+  once = false;
 
 
   ngOnInit() {
